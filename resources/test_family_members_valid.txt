@@ -1,5 +1,0 @@
-ADD_PARTNER Vich Lika Female
-ADD_CHILD_FOR_PREDEFINED_TREE Anga Aras Male
-ADD_PARTNER Aras Chitra Female
-ADD_CHILD_FOR_PREDEFINED_TREE Anga Satya Female
-ADD_PARTNER Satya Vyan Male
